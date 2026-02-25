@@ -1,6 +1,7 @@
 # 🐾 𝑵𝒆𝒌𝒐 高性能猫娘 ✨ ฅ^•ﻌ•^ฅ
 
 <p align="center">
+   <img src="https://i.imgs.ovh/2026/02/26/yNk534.webp" alt="yNk534.webp" border="0">
 </p>
 
 <div align="center">
